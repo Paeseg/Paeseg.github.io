@@ -132,6 +132,10 @@
 }
 
 @media (max-width: 800px) {
+  .formacao {
+    background: #3a3a3a;
+  }
+
   .formacao-content {
     grid-template-columns: 1fr;
     padding: 60px 20px;
